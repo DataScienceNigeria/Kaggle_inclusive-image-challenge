@@ -30,3 +30,9 @@ git push <remote name> <branch-name>
 > why we use 'git pull --rebase'
 > 1. https://ihower.tw/blog/archives/3843
 > 2. https://stackoverflow.com/questions/2472254/when-should-i-use-git-pull-rebase
+
+## Useful tutorial
+- https://kingofamani.gitbooks.io/git-teach/content/
+- https://blog.techbridge.cc/2018/01/17/learning-programming-and-coding-with-python-git-and-github-tutorial/
+- https://gogojimmy.net/2012/01/17/how-to-use-git-1-git-basic/
+- https://blog.longwin.com.tw/2013/11/git-create-remote-branch-2013/
